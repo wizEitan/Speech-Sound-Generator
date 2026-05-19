@@ -25,4 +25,11 @@
 
 ## License
 
-*(Add your license here)*
+## License
+
+Speech Sound Generator is free to use for personal and commercial purposes.
+
+Redistribution, modification, or resale of this software is not permitted without
+explicit written permission from the author.
+
+© 2026 [Eitan Israeli]. All rights reserved.

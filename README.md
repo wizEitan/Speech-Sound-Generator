@@ -25,8 +25,6 @@
 
 ## License
 
-## License
-
 Speech Sound Generator is free to use for personal and commercial purposes.
 
 Redistribution, modification, or resale of this software is not permitted without
